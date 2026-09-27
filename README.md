@@ -116,6 +116,14 @@ Run supervision
 
 See [`docs/`](docs/) for the engineering notes, [`firmware-excerpts/`](firmware-excerpts/) for cleaned excerpts adapted from the competition firmware, and [`examples/`](examples/) for simplified educational examples.
 
+## New to Micromouse? Start here
+
+1. Follow the [`Beginner Roadmap`](docs/beginner-roadmap.md).
+2. Measure your own robot using the [`Calibration Guide`](docs/calibration-guide.md).
+3. Do not attempt a full run before completing the [`Testing Checklist`](docs/testing-checklist.md).
+4. Review the [`Common Mistakes`](docs/common-mistakes.md).
+5. Use the [`BOM and Alternatives`](docs/bom-and-alternatives.md) to plan hardware.
+
 ## Repository map
 
 ```text
