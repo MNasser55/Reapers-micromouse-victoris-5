@@ -45,9 +45,9 @@ This is an **educational engineering release**, not the complete competition fir
 
 Official event page: https://mansoura.ieee.org/events/ieee-victoris-50
 
-## Reaper
+## Competition maze
 
-![Reaper Micromouse with the second-place award](assets/competition/reaper-and-award.svg)
+![The real IEEE Victoris 5.0 Micromouse competition maze](assets/competition/competition-maze.svg)
 
 ## System at a glance
 
