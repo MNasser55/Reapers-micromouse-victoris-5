@@ -1,6 +1,6 @@
 # Hardware Overview
 
-![PCB assembly render](../assets/hardware/pcb-assembly-render.jpg)
+![PCB assembly render](../assets/hardware/pcb-assembly-render.svg)
 
 ## Main components
 

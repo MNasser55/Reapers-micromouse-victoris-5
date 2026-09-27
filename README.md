@@ -2,7 +2,7 @@
 
 > **Second Place — Micromouse, IEEE Victoris 5.0 (24 September 2026)**
 
-![Team Reapers — second-place winners](assets/competition/team-reapers-second-place.jpg)
+![Team Reapers — second-place winners](assets/competition/team-reapers-second-place.svg)
 
 Reaper is a compact autonomous Micromouse built by **Team Reapers, Zagazig University**. It explores an unknown maze, builds a consistent wall map, reaches the four-cell center, retains confirmed map data, and executes a lower-cost speed run.
 
@@ -47,7 +47,7 @@ Official event page: https://mansoura.ieee.org/events/ieee-victoris-50
 
 ## Reaper
 
-![Reaper Micromouse — top view](assets/robot/reaper-top-view.jpg)
+![Reaper Micromouse — top view](assets/robot/reaper-top-view.svg)
 
 ## System at a glance
 
