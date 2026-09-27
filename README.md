@@ -150,7 +150,7 @@ See [`docs/`](docs/) for the engineering notes, [`firmware-excerpts/`](firmware-
 
 ## Team Reapers
 
-- **Mohamed Nasser Ibrahim** — Team Leader; embedded systems, firmware architecture, integration, motion control, and competition bring-up.
+- **Mohamed Nasser Ibrahim** — Team Leader; embedded systems, complete firmware development, maze mapping, flood-fill exploration, heading-aware weighted planning, motion control, system integration, and competition bring-up.
 - **Mahmoud Sherif Abdelmaaz** — PCB design and electronics integration.
 - **Moaz Abdelhamid Mohamed** — Mechanical design and assembly.
 - **Mohamed Salah Abu El-Saud** — Mechanical design and assembly.
