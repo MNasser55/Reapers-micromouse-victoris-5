@@ -47,7 +47,7 @@ Official event page: https://mansoura.ieee.org/events/ieee-victoris-50
 
 ## Reaper
 
-![Reaper Micromouse — top view](assets/robot/reaper-top-view.svg)
+![Reaper Micromouse with the second-place award](assets/competition/reaper-and-award.svg)
 
 ## System at a glance
 
@@ -112,7 +112,7 @@ Run supervision
 └── Motor output and emergency stop
 ```
 
-See [`docs/`](docs/) for the engineering notes and [`examples/`](examples/) for simplified educational examples.
+See [`docs/`](docs/) for the engineering notes, [`firmware-excerpts/`](firmware-excerpts/) for cleaned excerpts adapted from the competition firmware, and [`examples/`](examples/) for simplified educational examples.
 
 ## Repository map
 
@@ -126,6 +126,11 @@ See [`docs/`](docs/) for the engineering notes and [`examples/`](examples/) for 
 │   ├── firmware-architecture.md
 │   ├── navigation-and-planning.md
 │   └── motion-control-and-safety.md
+├── firmware-excerpts/
+│   ├── sensor_addressing_excerpt.cpp
+│   ├── wall_map_excerpt.cpp
+│   ├── dynamic_flood_fill_excerpt.cpp
+│   └── encoder_odometry_excerpt.cpp
 ├── examples/
 │   ├── vl53l0x_xshut_example.cpp
 │   ├── flood_fill_pseudocode.cpp
