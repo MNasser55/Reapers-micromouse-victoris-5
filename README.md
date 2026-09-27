@@ -133,10 +133,13 @@ See [`docs/`](docs/) for the engineering notes and [`examples/`](examples/) for 
 └── assets/
 ```
 
-## Confirmed technical contributors
+## Team Reapers
 
 - **Mohamed Nasser Ibrahim** — Team Leader; embedded systems, firmware architecture, integration, motion control, and competition bring-up.
 - **Mahmoud Sherif Abdelmaaz** — PCB design and electronics integration.
+- **Moaz Abdelhamid Mohamed** — Mechanical design and assembly.
+- **Mohamed Salah Abu El-Saud** — Mechanical design and assembly.
+- **Mohamed Samir Zaki** — Mechanical design and assembly.
 
 ## Evidence boundaries
 
